@@ -10,6 +10,8 @@ This repository contains implementations of various data structures in Java.
 - [MyVector](MyVector.java): Implementation of a custom Vector class.
 - [Queue](Queue.java): Implementation of a Queue.
 - [Stack](Stack.java): Implementation of a Stack.
+- [Node](Node.java): Implementation of Binary Tree Node.
+- [Binary Search Tree](BinarySearchTree.java): Implementation of Binary Search Tree. 
 
 ## How to Use
 
